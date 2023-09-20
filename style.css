@@ -1,0 +1,35 @@
+
+.links{
+   display: flex;
+   margin: auto;
+   justify-content: space-between;
+   align-items: center;
+}
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 30px 20px;
+}
+
+.inav {
+    width: 60px;
+    height: fit-content;
+    margin-top: 0;
+}
+
+
+main{
+font-size: x-large;
+text-align: center;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+}
+.landing {
+    background-color: blanchedalmond;
+}
+.ibody{
+   
+}
