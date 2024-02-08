@@ -1,3 +1,14 @@
-const h2=document.createElement("h2")
-h2.textContent="DENNIS KIMANI";
-document.querySelector("body").appendChild(h2);
+
+function greet() {
+    console.log("Hello, welcome to my website!");
+}
+
+
+function changeBackgroundColor(color) {
+    document.body.style.backgroundColor = color;
+}
+
+document.getElementById("myButton").addEventListener("click", function() {
+    alert("Button clicked!");
+});
+
