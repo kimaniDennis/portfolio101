@@ -1,18 +1,17 @@
-/* Reset default margin and padding */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
     color: #333;
 }
 
-/* Navigation styles */
+
 .navbar {
     background-color: #333;
     color: #fff;
@@ -39,7 +38,7 @@ body {
     font-weight: bold;
 }
 
-/* Main content styles */
+
 .main-content {
     text-align: center;
     padding: 50px;

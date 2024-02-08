@@ -1,4 +1,4 @@
-/* Reset default margin and padding */
+
 * {
     margin: 0;
     padding: 0;
@@ -30,9 +30,9 @@ main {
 section {
     margin-bottom: 30px;
     padding: 20px;
-    background-color: #fff; /* Background color for sections */
-    border-radius: 8px; /* Rounded corners for sections */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for sections */
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
